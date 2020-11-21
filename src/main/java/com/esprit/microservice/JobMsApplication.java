@@ -24,5 +24,6 @@ public class JobMsApplication {
 			repository.findAll().forEach(System.out::println);
 
 		};
+		
 	}
 }
